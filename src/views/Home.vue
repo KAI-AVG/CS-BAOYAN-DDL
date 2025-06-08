@@ -54,7 +54,7 @@ export default {
   },
   methods: {
     loadData(source) {
-      fetch('/config/schools.json')
+      fetch('./config/schools.json')
       // fetch('/config/schools.json')
         .then(response => response.json())
         .then(data => {
