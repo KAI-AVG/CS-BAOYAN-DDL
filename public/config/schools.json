@@ -703,6 +703,18 @@
                 "985"
             ],
             "province": ""
+        },
+        {
+            "name": "中南大学",
+            "institute": "a",
+            "description": "a",
+            "deadline": "2025-11-27T00:00:00",
+            "website": "无",
+            "tags": [
+                "211",
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
