@@ -22,8 +22,8 @@ jobs:
 
     - name: Commit and push changes if there are any
       run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
+        git config --global user.name 'KAI-AVG'
+        git config --global user.email 'KAI-AVG@github.com'
         git add public/config/schools.json
         if git diff-index --quiet HEAD; then
           echo "No changes to commit"
