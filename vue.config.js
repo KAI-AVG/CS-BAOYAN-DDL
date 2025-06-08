@@ -1,9 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
-module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/'
-    : '/'
-};
-export default defineConfig({
-  base: './'
+module.exports = defineConfig({
+  publicPath: process.env.NODE_ENV === 'production' ? './' : '/',
+  // 其他配置...
 })
