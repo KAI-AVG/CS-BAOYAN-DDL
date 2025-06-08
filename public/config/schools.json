@@ -692,6 +692,17 @@
                 "双非"
             ],
             "province": ""
+        },
+        {
+            "name": "中南大学",
+            "institute": "计算机学院",
+            "description": "_No response_",
+            "deadline": "2025-11-27T00:00:00",
+            "website": "无",
+            "tags": [
+                "985"
+            ],
+            "province": ""
         }
     ],
     "camp2024": [
