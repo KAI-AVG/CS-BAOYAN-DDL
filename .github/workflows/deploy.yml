@@ -1,8 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_run: 
+    workflows: Update JSON from BoardCaster
+    types:
+      - completed
   push:
-    branches: [ main, master ]
+    branches: main
   workflow_dispatch:
 
 jobs:
