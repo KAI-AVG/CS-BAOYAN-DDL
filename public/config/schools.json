@@ -509,7 +509,8 @@
             "deadline": "2025-06-16T00:00:00+08:00",
             "website": "https://informatics.xmu.edu.cn/info/1050/45710.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -554,6 +555,7 @@
             "website": "https://is.cas.cn/yjsjy2016/zsxx2016/202505/t20250530_7794448.html",
             "tags": [
                 "研究院",
+                "双非"
             ],
             "province": ""
         },
@@ -575,7 +577,8 @@
             "deadline": "2025-06-20T11:00:00+08:00",
             "website": "https://csw.jlu.edu.cn/info/1156/7879.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -608,7 +611,8 @@
             "deadline": "2025年6月20日12:00:00+08:00",
             "website": "https://ccst.jlu.edu.cn/info/1229/20419.htm",
             "tags": [
-                "985"
+                "985",
+                "211"
             ],
             "province": ""
         },
@@ -707,7 +711,8 @@
             "deadline": "2025-11-27T00:00:00",
             "website": "无",
             "tags": [
-                "211"
+                "211",
+                "985"
             ],
             "province": ""
         }
