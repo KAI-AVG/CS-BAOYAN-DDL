@@ -4,9 +4,9 @@ import universitiesData from '../../2025_universities.json';
 // 创建学校名称到logo URL的映射
 const logoMap = {
   // 手动添加的额外Logo
-  '香港科技大学': '/university_logos/香港科技大学.jpg',
-  '上海创智学院': '/university_logos/上海创智学院.jpg',
-  '香港中文大学': '/university_logos/香港中文大学.jpg'
+  '香港科技大学': './university_logos/香港科技大学.jpg',
+  '上海创智学院': './university_logos/上海创智学院.jpg',
+  '香港中文大学': './university_logos/香港中文大学.jpg'
 };
 
 // 处理大学名称，清除附加信息，只保留大学主名称
